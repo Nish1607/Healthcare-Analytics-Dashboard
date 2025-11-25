@@ -1,14 +1,14 @@
 # Healthcare-Analytics-Dashboard
-🏥 Healthcare Analytics Dashboard (Power BI + SQL)
+🏥 **Healthcare Analytics Dashboard** (Power BI)
 
 This project presents a complete Healthcare Analytics Dashboard built using Power BI and SQL, analyzing a 19-month emergency room dataset (Apr 2023 – Oct 2024). The dashboard provides insights into patient flow, wait times, demographics, referral patterns, and overall hospital performance.
 
-🚀 Objective
+🚀 **Objective**
 
 To analyze emergency room operations and uncover insights into patient volume, admission patterns, wait times, and referral behavior.
 The project focuses on data cleaning, modeling, and visualization to help healthcare teams improve patient care, staffing, and resource allocation.
 
-📁 Dataset Summary
+📁 ** Dataset Summary**
 
 The dataset simulates real-world emergency room activity and includes:
 
@@ -26,7 +26,7 @@ Hourly & daily visit patterns
 
 Includes intentional inconsistencies (nulls, mixed date formats, irregular categories) for realistic data-cleaning practice.
 
-🧹 Data Cleaning & Validation
+🧹 **Data Cleaning & Validation**
 
 Performed using SQL + Power Query to prepare high-quality analytical data.
 
@@ -56,7 +56,7 @@ Referral Department
 
 Date (Year, Quarter, Month, Day)
 
-📌 Key KPIs & Visualizations
+📌** Key KPIs & Visualizations**
 KPI	Description	Visualization
 👥 Total Patients	Count of unique ER visits	KPI Card
 ⏱️ Avg Wait Time	Avg time patients waited before service	KPI Card
@@ -120,7 +120,7 @@ Diverse racial demographics
 
 Nearly equal admitted vs non-admitted patients
 
-🧮 Tools & Technologies
+🧮 **Tools & Technologies**
 
 SQL Server → Data cleaning & validation
 
@@ -132,7 +132,7 @@ Power Query → ETL & data shaping
 
 Excel → Initial data review
 
-🧠 Key Insights
+🧠 **Key Insights**
 
 High evening & late-night traffic requires optimized staffing
 
@@ -144,7 +144,7 @@ Balanced admission vs non-admission shows diverse case severity
 
 Consistently high satisfaction score (4.9+) indicates good patient experience
 
-📸 Dashboard Preview
+📸 **Dashboard Preview**
 
 <img width="1555" height="957" alt="Screenshot 2025-11-25 164340" src="https://github.com/user-attachments/assets/7fa7a160-4389-42c3-ac5f-2caad99061e7" />
 <img width="1553" height="949" alt="Screenshot 2025-11-25 164403" src="https://github.com/user-attachments/assets/915d5d0a-699c-4823-9c56-4a11cb8eb3bb" />
@@ -152,6 +152,6 @@ Consistently high satisfaction score (4.9+) indicates good patient experience
 <img width="1551" height="947" alt="Screenshot 2025-11-25 164435" src="https://github.com/user-attachments/assets/e9292fdc-b45f-473e-b355-6546a3a5514f" />
 
 
-✅ Conclusion
+✅ **Conclusion**
 
 The Healthcare Analytics Dashboard provides a clear view of patient trends, operational efficiency, and referral behavior. It demonstrates strong skills in data cleaning, modeling, DAX, and dashboard storytelling, enabling healthcare teams to make informed decisions and improve emergency care delivery.
