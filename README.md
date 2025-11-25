@@ -56,20 +56,22 @@ Referral Department
 
 Date (Year, Quarter, Month, Day)
 
-📌** Key KPIs & Visualizations**
+📌**Key KPIs & Visualizations**
+
 KPI	Description	Visualization
-👥 Total Patients	Count of unique ER visits	KPI Card
-⏱️ Avg Wait Time	Avg time patients waited before service	KPI Card
-⭐ Patient Satisfaction Score	Avg feedback score	KPI Card
-↪️ Patients Referred	Count of patients sent to departments	KPI Card
-🕒 % Seen Within 30 Min	Service efficiency metric	Donut Chart
-👶 Patients by Age Group	Volume by age bracket	Bar Chart
-🚹🚺 Patients by Gender	Male–Female distribution	Donut Chart
-🌎 Race Distribution	Patient diversity	Horizontal Bars
-🧭 Visits by Day & Hour	Peaks across weekdays & hours	Heatmap
-🏥 Department Referrals	Top referred specialties	Bar Chart
-🖥️ Dashboard Pages
-1️⃣ Monthly View (Apr 2024)
+| **KPI**                          | **Description**                                   | **Visualization Type** |
+| -------------------------------- | ------------------------------------------------- | ---------------------- |
+| 👥 **Total Patients**            | Count of unique ER visits                         | KPI Card               |
+| ⏱️ **Avg Wait Time**             | Average time patients waited before being seen    | KPI Card               |
+| ⭐ **Patient Satisfaction Score** | Average patient satisfaction score                | KPI Card               |
+| ↪️ **Patients Referred**         | Total number of patients referred to departments  | KPI Card               |
+| 🕒 **% Seen Within 30 Min**      | Percentage of patients seen within 30 minutes     | Donut Chart            |
+| 👶 **Patients by Age Group**     | Number of patients in each age bracket            | Bar Chart              |
+| 🚹🚺 **Patients by Gender**      | Male–Female–and Not Confirmed distribution        | Donut Chart            |
+| 🌎 **Race Distribution**         | Distribution of patients across racial categories | Horizontal Bar Chart   |
+| 🧭 **Visits by Day & Hour**      | Peak visits across weekdays and hourly intervals  | Heatmap                |
+| 🏥 **Department Referrals**      | Most common hospital referral departments         | Bar Chart              |
+
 
 Short-term snapshot showing:
 
